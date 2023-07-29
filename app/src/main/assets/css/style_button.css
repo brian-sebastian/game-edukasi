@@ -1,0 +1,239 @@
+.btn-semangka {
+  color: white;
+  background-color: #fed136;
+  border-color: #fed136;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 20px 40px;
+}
+.btn-semangka:hover,
+.btn-semangka:focus,
+.btn-semangka:active,
+.btn-semangka.active,
+.open .dropdown-toggle.btn-semangka {
+  color: white;
+  background-color: #fec503;
+  border-color: #f6bf01;
+}
+.btn-semangka:active,
+.btn-semangka.active,
+.open .dropdown-toggle.btn-semangka {
+  background-image: none;
+}
+.btn-semangka.disabled,
+.btn-semangka[disabled],
+fieldset[disabled] .btn-semangka,
+.btn-semangka.disabled:hover,
+.btn-semangka[disabled]:hover,
+fieldset[disabled] .btn-semangka:hover,
+.btn-semangka.disabled:focus,
+.btn-semangka[disabled]:focus,
+fieldset[disabled] .btn-semangka:focus,
+.btn-semangka.disabled:active,
+.btn-semangka[disabled]:active,
+fieldset[disabled] .btn-semangka:active,
+.btn-semangka.disabled.active,
+.btn-semangka[disabled].active,
+fieldset[disabled] .btn-semangka.active {
+  background-color: #fed136;
+  border-color: #fed136;
+}
+.btn-semangka .badge {
+  color: #fed136;
+  background-color: white;
+}
+
+.btn-apel {
+  color: white;
+  background-color: #fed136;
+  border-color: #fed136;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 20px 40px;
+}
+.btn-apel:hover,
+.btn-apel:focus,
+.btn-apel:active,
+.btn-apel.active,
+.open .dropdown-toggle.btn-apel {
+  color: white;
+  background-color: #fec503;
+  border-color: #f6bf01;
+}
+.btn-apel:active,
+.btn-apel.active,
+.open .dropdown-toggle.btn-apel {
+  background-image: none;
+}
+.btn-apel.disabled,
+.btn-apel[disabled],
+fieldset[disabled] .btn-apel,
+.btn-apel.disabled:hover,
+.btn-apel[disabled]:hover,
+fieldset[disabled] .btn-apel:hover,
+.btn-apel.disabled:focus,
+.btn-apel[disabled]:focus,
+fieldset[disabled] .btn-apel:focus,
+.btn-apel.disabled:active,
+.btn-apel[disabled]:active,
+fieldset[disabled] .btn-apel:active,
+.btn-apel.disabled.active,
+.btn-apel[disabled].active,
+fieldset[disabled] .btn-apel.active {
+  background-color: #fed136;
+  border-color: #fed136;
+}
+.btn-apel .badge {
+  color: #fed136;
+  background-color: white;
+}
+
+.btn-anggur {
+  color: white;
+  background-color: #fed136;
+  border-color: #fed136;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 20px 40px;
+}
+.btn-anggur:hover,
+.btn-anggur:focus,
+.btn-anggur:active,
+.btn-anggur.active,
+.open .dropdown-toggle.btn-anggur {
+  color: white;
+  background-color: #fec503;
+  border-color: #f6bf01;
+}
+.btn-anggur:active,
+.btn-anggur.active,
+.open .dropdown-toggle.btn-anggur {
+  background-image: none;
+}
+.btn-anggur.disabled,
+.btn-anggur[disabled],
+fieldset[disabled] .btn-anggur,
+.btn-anggur.disabled:hover,
+.btn-anggur[disabled]:hover,
+fieldset[disabled] .btn-anggur:hover,
+.btn-anggur.disabled:focus,
+.btn-anggur[disabled]:focus,
+fieldset[disabled] .btn-anggur:focus,
+.btn-anggur.disabled:active,
+.btn-anggur[disabled]:active,
+fieldset[disabled] .btn-anggur:active,
+.btn-anggur.disabled.active,
+.btn-anggur[disabled].active,
+fieldset[disabled] .btn-anggur.active {
+  background-color: #fed136;
+  border-color: #fed136;
+}
+.btn-anggur .badge {
+  color: #fed136;
+  background-color: white;
+}
+
+.btn-jeruk {
+  color: white;
+  background-color: #fed136;
+  border-color: #fed136;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 20px 40px;
+}
+.btn-jeruk:hover,
+.btn-jeruk:focus,
+.btn-jeruk:active,
+.btn-jeruk.active,
+.open .dropdown-toggle.btn-jeruk {
+  color: white;
+  background-color: #fec503;
+  border-color: #f6bf01;
+}
+.btn-jeruk:active,
+.btn-jeruk.active,
+.open .dropdown-toggle.btn-jeruk {
+  background-image: none;
+}
+.btn-jeruk.disabled,
+.btn-jeruk[disabled],
+fieldset[disabled] .btn-jeruk,
+.btn-jeruk.disabled:hover,
+.btn-jeruk[disabled]:hover,
+fieldset[disabled] .btn-jeruk:hover,
+.btn-jeruk.disabled:focus,
+.btn-jeruk[disabled]:focus,
+fieldset[disabled] .btn-jeruk:focus,
+.btn-jeruk.disabled:active,
+.btn-jeruk[disabled]:active,
+fieldset[disabled] .btn-jeruk:active,
+.btn-jeruk.disabled.active,
+.btn-jeruk[disabled].active,
+fieldset[disabled] .btn-jeruk.active {
+  background-color: #fed136;
+  border-color: #fed136;
+}
+.btn-jeruk .badge {
+  color: #fed136;
+  background-color: white;
+}
+
+.btn-stroberry {
+  color: white;
+  background-color: #fed136;
+  border-color: #fed136;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 20px 40px;
+}
+.btn-stroberry:hover,
+.btn-stroberry:focus,
+.btn-stroberry:active,
+.btn-stroberry.active,
+.open .dropdown-toggle.btn-stroberry {
+  color: white;
+  background-color: #fec503;
+  border-color: #f6bf01;
+}
+.btn-stroberry:active,
+.btn-stroberry.active,
+.open .dropdown-toggle.btn-stroberry {
+  background-image: none;
+}
+.btn-stroberry.disabled,
+.btn-stroberry[disabled],
+fieldset[disabled] .btn-stroberry,
+.btn-stroberry.disabled:hover,
+.btn-stroberry[disabled]:hover,
+fieldset[disabled] .btn-stroberry:hover,
+.btn-stroberry.disabled:focus,
+.btn-stroberry[disabled]:focus,
+fieldset[disabled] .btn-stroberry:focus,
+.btn-stroberry.disabled:active,
+.btn-stroberry[disabled]:active,
+fieldset[disabled] .btn-stroberry:active,
+.btn-stroberry.disabled.active,
+.btn-stroberry[disabled].active,
+fieldset[disabled] .btn-stroberry.active {
+  background-color: #fed136;
+  border-color: #fed136;
+}
+.btn-stroberry .badge {
+  color: #fed136;
+  background-color: white;
+}
